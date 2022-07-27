@@ -1,4 +1,4 @@
-//sorting the given elements using slection sort
+//sorting the given elements using bubble sort
 
 #include<iostream>
 using namespace std;
